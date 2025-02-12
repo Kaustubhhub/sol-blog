@@ -1,7 +1,7 @@
 import { Router } from "express";
 
-const filterRoute = Router();
+const filterRouter = Router();
 
 
 
-export default filterRoute
+export default filterRouter
